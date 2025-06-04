@@ -56,7 +56,7 @@ lightbox.addEventListener('click', (e) => {
     isZoomed = false;
   }
 });
-
+//flex the image
 document.addEventListener('keydown', (e) => {
   if (lightbox.style.display === 'flex') {
     if (e.key === 'ArrowLeft') prevBtn.click();
