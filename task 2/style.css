@@ -1,7 +1,7 @@
 body {
   margin: 0;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  background-color: #f3f4f6;
+  background-color: #0c4987;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -9,7 +9,7 @@ body {
 }
 
 .calculator {
-  background: white;
+  background: rgb(148, 14, 14);
   padding: 2rem;
   border-radius: 20px;
   box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
@@ -36,7 +36,7 @@ body {
 .btn {
   padding: 1rem;
   font-size: 1.25rem;
-  background-color: #e5e7eb;
+  background-color: #b7c8e9;
   border: none;
   border-radius: 10px;
   cursor: pointer;
@@ -44,7 +44,7 @@ body {
 }
 
 .btn:hover {
-  background-color: #d1d5db;
+  background-color: gold;
 }
 
 .equal {
