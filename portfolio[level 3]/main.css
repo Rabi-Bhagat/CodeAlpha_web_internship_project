@@ -13,11 +13,6 @@ header {
     width: 100%;
 }
 
-.logo img {
-    height: 50px;
-    width: 50px;
-    border-radius: 50%;
-}
 
 .nav {
     display: flex;
@@ -60,12 +55,7 @@ header {
     margin-top: 50px;
 }
 
-.profile-pic {
-    border-radius: 50%;
-    width: 180px;
-    height: 180px;
-    margin-bottom: 15px;
-}
+/*  */
 
 .bio {
     max-width: 90%;
