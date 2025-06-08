@@ -9,7 +9,7 @@ body {
 }
 
 .calculator {
-  background: rgb(148, 14, 14);
+  background: rgb(148, 77, 14);
   padding: 2rem;
   border-radius: 20px;
   box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
@@ -49,7 +49,7 @@ body {
 
 .equal {
   grid-column: span 2;
-  background-color: #3b82f6;
+  background-color: silver;
   color: white;
 }
 

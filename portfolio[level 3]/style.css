@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.skill-card:hover, .project-card:hover {
+    transform: translateY(-5px);
+    transition: transform 0.3s ease;
+}
+
+body {
+    @apply bg-gray-900 text-gray-100;
+}
